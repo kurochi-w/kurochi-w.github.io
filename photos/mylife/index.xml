@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It&#39;s my life on kurochi&#39;s blog</title>
+    <link>https://example.com/photos/mylife/</link>
+    <description>Recent content in It&#39;s my life on kurochi&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/photos/mylife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>일본 여행</title>
+      <link>https://example.com/photos/mylife/2019.11.19_1</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>https://example.com/photos/mylife/2019.11.19_1</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/tags/code/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/code-poetry/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/photos/mylife/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/poem/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/photos/mylife/2019.11.19_1</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/photos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/portfolio/</loc>
+  </url>
+  
+</urlset>
