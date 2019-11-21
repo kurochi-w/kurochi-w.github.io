@@ -6,10 +6,25 @@
     <description>Recent content on kurochi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 10:18:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 08:56:12 +0900</lastBuildDate>
     
 	<atom:link href="https://kurochi-w.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>봄날의 일본 여행 - 1</title>
+      <link>https://kurochi-w.github.io/life/my/20191119_1/</link>
+      <pubDate>Thu, 21 Nov 2019 08:56:12 +0900</pubDate>
+      
+      <guid>https://kurochi-w.github.io/life/my/20191119_1/</guid>
+      <description>첫째 날 [05/16 ~ 05/20] 과거 일본에서 살았던 각자의 추억을 가지고 공통의 추억을 만들기 위해 찾아간 도쿄여행♥
+언제가도 참 변함없는 매력적인 도쿄 관광보다는 그냥 일상생활 속 오랜만에 좀 더 먼곳으로 마실 나가는 듯한 느낌의 여행
+2년 만에 가는 도쿄
+매 년 습관처럼 찾아갔었는데 어쩌다 보니 2년 만에 찾게 된 도쿄&amp;hellip;
+도쿄가는 길은 뭔가 여행, 해외 이런 느낌보다는
+뭔가 익숙한 곳에 나 왔다간다 이렇게 안부인사하는 느낌으로 찾아가는 곳이였는데
+오랜만에 간다고 생각하니까 굉장히 설레더라고요.</description>
+    </item>
     
     <item>
       <title>Flutter 시작하기 (on ubuntu) - 2</title>
@@ -41,7 +56,7 @@ console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
       <pubDate>Wed, 20 Nov 2019 01:42:49 +0900</pubDate>
       
       <guid>https://kurochi-w.github.io/about/</guid>
-      <description></description>
+      <description>kurochi&amp;rsquo;s development blog</description>
     </item>
     
     <item>
@@ -54,15 +69,6 @@ console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 if (this === that): try write_new_poem() except not_a_poet as e: return  Or just one long line&amp;hellip;
 console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;)  An embedded gist using shortcode:
  </description>
-    </item>
-    
-    <item>
-      <title>일본 여행</title>
-      <link>https://kurochi-w.github.io/photos/mylife/20191119_1/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>https://kurochi-w.github.io/photos/mylife/20191119_1/</guid>
-      <description></description>
     </item>
     
   </channel>
