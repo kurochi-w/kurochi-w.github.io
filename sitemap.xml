@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kurochi-w.github.io/mylife/</loc>
-    <lastmod>2019-11-22T11:53:00+09:00</lastmod>
+    <loc>https://kurochi-w.github.io/banyalife/20191125_1/</loc>
+    <lastmod>2019-11-25T16:43:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kurochi-w.github.io/banyalife/</loc>
+    <lastmod>2019-11-25T16:43:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kurochi-w.github.io/</loc>
+    <lastmod>2019-11-25T16:43:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kurochi-w.github.io/mylife/</loc>
     <lastmod>2019-11-22T11:53:00+09:00</lastmod>
   </url>
   
@@ -65,10 +75,6 @@
   <url>
     <loc>https://kurochi-w.github.io/posts/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kurochi-w.github.io/banyalife/</loc>
   </url>
   
   <url>
